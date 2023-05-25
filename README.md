@@ -16,7 +16,7 @@ To ensure proper commenting, follow these guidelines:
 
 By adhering to these commenting guidelines, we ensure that our code is self-explanatory and facilitates collaboration.
 
-You can find the documantation files in ros_simulation/docs.
+You can find the documantation files in 'ros_simulation/docs'.
 
 ## Jupyter Notebook for Simulation Interaction
 
@@ -61,8 +61,8 @@ To perform the statistical analysis:
 6. Document the entire statistical analysis process, including the data preprocessing steps, chosen statistical tests, and the obtained results, in a separate report or notebook.
 
 Performing a thorough statistical analysis provides insights into the relative performance of different implementations and helps make informed decisions based on empirical evidence.
-The reports' analysys is '
+The reports' analysys is 's5521188_RT2.pdf' where I explain all the process.
 
 ## Conclusion
 
-This README provides an overview of the various components associated with the 2nd RT1 assignment. It emphasizes the importance of proper commenting using Sphinx and/or Doxygen, provides instructions for using the Jupyter notebook for simulation interaction, and
+This README provides an overview of the various components associated with the 1st RT2 assignment. It emphasizes the importance of proper commenting using Sphinx and/or Doxygen, provides instructions for using the Jupyter notebook for simulation interaction, and outlines the steps involved in performing a statistical analysis. By following these guidelines and utilizing the provided tools, you can enhance code quality, interact with the simulation, and gain insights through statistical analysis.
