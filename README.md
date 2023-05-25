@@ -34,11 +34,13 @@ To use the Jupyter notebook:
 
 3. Access the notebook through the web browser by following the link provided in the terminal.
 
-4. Open the notebook file named `2nd_assignment_simulation.ipynb`.
+4. Open the notebook file named `Client_Jup.ipynb`, inside the repository '/ros_simulation/scripts'.
 
 5. Execute the cells in the notebook to interact with the simulation. The notebook provides instructions and explanations throughout the process.
 
 The Jupyter notebook serves as a convenient tool to understand and experiment with the simulation of the 2nd assignment.
+
+If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and then use the launch file 'assingment1.launch' after running the 'roscore'.
 
 ## Statistical Analysis of the First Assignment
 
