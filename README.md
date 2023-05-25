@@ -38,9 +38,9 @@ The Jupyter notebook serves as a convenient tool to understand and experiment wi
 
 If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and then use the launch file 'assingment1.launch' after running the 'roscore'.
 
-## Statistical Analysis of the First Assignment
+## Statistical Analysis of the First RT1 Assignment
 
-The statistical analysis of the first assignment involves comparing the performance of two different implementations: my solution and a solution provided by one of your colleagues. The analysis aims to determine which implementation performs better when silver and golden tokens are randomly placed in the environment.
+The statistical analysis of the first RT1 assignment involves comparing the performance of two different implementations: my solution and a solution provided by one of your colleagues. The analysis aims to determine which implementation performs better when silver and golden tokens are randomly placed in the environment.
 
 To perform the statistical analysis:
 
