@@ -44,7 +44,7 @@ If you want to Launch the simulation and see the homework, you have firstly laun
 
 ## Statistical Analysis of the First Assignment
 
-The statistical analysis of the first assignment involves comparing the performance of two different implementations: your solution and a solution provided by one of your colleagues. The analysis aims to determine which implementation performs better when silver and golden tokens are randomly placed in the environment.
+The statistical analysis of the first assignment involves comparing the performance of two different implementations: my solution and a solution provided by one of your colleagues. The analysis aims to determine which implementation performs better when silver and golden tokens are randomly placed in the environment.
 
 To perform the statistical analysis:
 
@@ -61,6 +61,7 @@ To perform the statistical analysis:
 6. Document the entire statistical analysis process, including the data preprocessing steps, chosen statistical tests, and the obtained results, in a separate report or notebook.
 
 Performing a thorough statistical analysis provides insights into the relative performance of different implementations and helps make informed decisions based on empirical evidence.
+The reports' analysys is '
 
 ## Conclusion
 
