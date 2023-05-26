@@ -45,7 +45,7 @@ jupyter notebook
 
 The Jupyter notebook serves as a convenient tool to understand and experiment with the simulation of the 2nd assignment.
 
-If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and after running the `roscore` launch the launch file:
+If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and after running the `roscore`, start the launch file:
 
 ```bash
 roslaunch ros_simulation assingment1.launch
