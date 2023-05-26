@@ -39,13 +39,13 @@ jupyter notebook
 
 3. Access the notebook through the web browser by following the link provided in the terminal.
 
-4. Open the notebook file named `Client_Jup.ipynb`, inside the repository '/ros_simulation/scripts'.
+4. Open the notebook file named `Client_Jup.ipynb`, inside the repository `/ros_simulation/scripts`.
 
 5. Execute the cells in the notebook to interact with the simulation. The notebook provides instructions and explanations throughout the process.
 
 The Jupyter notebook serves as a convenient tool to understand and experiment with the simulation of the 2nd assignment.
 
-If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and then use the launch file 'assingment1.launch' after running the 'roscore'.
+If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and then use the launch file `assingment1.launch` after running the `roscore`.
 
 ## Statistical Analysis of the First RT1 Assignment
 
@@ -66,7 +66,7 @@ To perform the statistical analysis:
 6. Document the entire statistical analysis process, including the data preprocessing steps, chosen statistical tests, and the obtained results, in a separate report or notebook.
 
 Performing a thorough statistical analysis provides insights into the relative performance of different implementations and helps make informed decisions based on empirical evidence.
-The reports' analysys is 's5521188_RT2.pdf' where I explain all the process.
+The reports' analysys is `s5521188_RT2.pdf` where I explain all the process.
 
 ## Conclusion
 
