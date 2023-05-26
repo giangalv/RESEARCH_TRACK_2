@@ -25,9 +25,15 @@ To provide an interactive simulation experience for the 2nd assignment, we have 
 
 To use the Jupyter notebook:
 
-1. Install Jupyter notebook using the following command: 'pip install jupyter'
+1. Install Jupyter notebook using the following command:
+'''
+pip install jupyter
+'''
 
-2. Launch the Jupyter notebook server: 'jupyter notebook'
+2. Launch the Jupyter notebook server: '
+'''
+jupyter notebook
+'''
 
 3. Access the notebook through the web browser by following the link provided in the terminal.
 
