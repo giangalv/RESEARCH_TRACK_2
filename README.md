@@ -4,7 +4,7 @@ This README provides information about the assignments and the various component
 
 ## Proper Commenting (Sphinx and/or Doxygen)
 
-Proper commenting is crucial for maintaining code readability, understanding, and maintainability. In this assignment, we emphasize the use of Sphinx and/or Doxygen for generating documentation from the comments in the code.
+Proper commenting is crucial for maintaining code readability, understanding, and maintainability. In this assignment, I emphasize the use of Sphinx and/or Doxygen for generating documentation from the comments in the code.
 
 To ensure proper commenting, follow these guidelines:
 
@@ -14,14 +14,14 @@ To ensure proper commenting, follow these guidelines:
 4. Include a comment header for each module, class, and function, describing their purpose, inputs, outputs, and any important considerations.
 5. Follow the Sphinx or Doxygen syntax for documenting your code. Include information such as parameter descriptions, return values, and example usage.
 
-By adhering to these commenting guidelines, we ensure that our code is self-explanatory and facilitates collaboration.
+By adhering to these commenting guidelines, I ensure that our code is self-explanatory and facilitates collaboration.
 
 You can find the first RT1 assignment [documantation here.](https://giangalv.github.io/RESEARCH_TRACK_2/functions.html) 
 
 
 ## Jupyter Notebook for Simulation Interaction
 
-To provide an interactive simulation experience for the 2nd assignment, we have created a Jupyter notebook. The notebook allows users to visualize and interact with the simulation environment.
+To provide an interactive simulation experience for the 2nd assignment, I have created a Jupyter notebook. The notebook allows users to visualize and interact with the simulation environment.
 
 To use the Jupyter notebook:
 
