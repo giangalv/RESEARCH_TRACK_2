@@ -16,7 +16,8 @@ To ensure proper commenting, follow these guidelines:
 
 By adhering to these commenting guidelines, we ensure that our code is self-explanatory and facilitates collaboration.
 
-You can find the documantation files in 'ros_simulation/docs'.
+You can find the [documantation here.]([https://www.example.com](https://giangalv.github.io/RESEARCH_TRACK_2/functions.html))
+
 
 ## Jupyter Notebook for Simulation Interaction
 
