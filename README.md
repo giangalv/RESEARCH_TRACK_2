@@ -43,7 +43,7 @@ jupyter notebook
 
 5. Execute the cells in the notebook to interact with the simulation. The notebook provides instructions and explanations throughout the process.
 
-The Jupyter notebook serves as a convenient tool to understand and experiment with the simulation of the 2nd assignment.
+The Jupyter notebook serves as a convenient tool to understand and experiment with the simulation of the 1st RT1 assignment.
 
 If you want to Launch the simulation and see the homework, you have firstly launch the jupyter file, how I explaned before and after running the `roscore`, start the launch file:
 
