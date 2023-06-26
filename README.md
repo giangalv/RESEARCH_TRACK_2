@@ -72,6 +72,11 @@ To perform the statistical analysis:
 Performing a thorough statistical analysis provides insights into the relative performance of different implementations and helps make informed decisions based on empirical evidence.
 The reports' analysys is `s5521188_RT2.pdf` where I explain all the process.
 
+## Research line
+Human-drone interaction has emerged as a fascinating area of research and development in recent years. As drones become increasingly prevalent in various fields, such as aerial photography, surveillance, delivery services, and even entertainment, there is a growing need to establish efficient and intuitive methods of communication between humans and drones. This has led to the exploration of cutting-edge interfaces that revolutionize human-drone interaction. State-of-the-art research in this field focuses on developing innovative interfaces that enhance the control, communication, and collaboration between humans and drones. 
+
+The revolutionizing human-drone interaction research line is pushing the boundaries of what is possible, creating cutting-edge interfaces that bridge the gap between humans and drones. These advancements are shaping the future of various industries, opening up new possibilities for safer, more intuitive, and efficient drone operation in diverse applications.
+
 ## Conclusion
 
-This README provides an overview of the various components associated with the 1st RT2 assignment. It emphasizes the importance of proper commenting using Sphinx and/or Doxygen, provides instructions for using the Jupyter notebook for simulation interaction, and outlines the steps involved in performing a statistical analysis. By following these guidelines and utilizing the provided tools, you can enhance code quality, interact with the simulation, and gain insights through statistical analysis.
+This README provides an overview of the various components associated with the 1st and 2nd RT2 assignment. It emphasizes the importance of proper commenting using Sphinx and/or Doxygen, provides instructions for using the Jupyter notebook for simulation interaction, outlines the steps involved in performing a statistical analysis and what is an research line. By following these guidelines and utilizing the provided tools, you can enhance code quality, interact with the simulation, gain insights through statistical analysis and human-drone interaction.
