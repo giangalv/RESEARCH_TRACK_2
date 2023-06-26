@@ -75,7 +75,7 @@ The reports' analysys is `s5521188_RT2.pdf` where I explain all the process.
 ## Research line
 Human-drone interaction has emerged as a fascinating area of research and development in recent years. As drones become increasingly prevalent in various fields, such as aerial photography, surveillance, delivery services, and even entertainment, there is a growing need to establish efficient and intuitive methods of communication between humans and drones. This has led to the exploration of cutting-edge interfaces that revolutionize human-drone interaction. State-of-the-art research in this field focuses on developing innovative interfaces that enhance the control, communication, and collaboration between humans and drones. 
 
-The revolutionizing human-drone interaction research line is pushing the boundaries of what is possible, creating cutting-edge interfaces that bridge the gap between humans and drones. These advancements are shaping the future of various industries, opening up new possibilities for safer, more intuitive, and efficient drone operation in diverse applications.
+The revolutionizing human-drone interaction research line is pushing the boundaries of what is possible, creating cutting-edge interfaces that bridge the gap between humans and drones. These advancements are shaping the future of various industries, opening up new possibilities for safer, more intuitive, and efficient drone operation in diverse applications. The research line which I have done with three coleagues is 'RT2_Research_Lines___Augmented_reality_strategies_for_piloting_UAVs'.
 
 ## Conclusion
 
